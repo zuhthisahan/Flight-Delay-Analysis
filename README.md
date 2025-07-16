@@ -13,6 +13,7 @@ This project is an interactive **Power BI dashboard** designed for the **Port Au
 
 ## 🎥 Demo Video
 
-📺 [Click here to watch the dashboard walkthrough](extra/2025-07-10 11-39-50.mp4)  
+📺 [Click here to watch the dashboard walkthrough]
+"Available in the Extra folder"
 
 ---
